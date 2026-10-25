@@ -1,0 +1,69 @@
+
+Modern Joke Religions.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Charlatanism
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Chthulhuism
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Communism
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Consumerism
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Grotesqueism
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Origoaperta-ism
+  rotate: false
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Patriotism
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Trekkie-ism
+  rotate: false
+  xy: 760, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Unciv-ism
+  rotate: false
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
