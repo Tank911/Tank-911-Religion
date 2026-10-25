@@ -69,5 +69,10 @@
         "name": "Planned obsolescence",
         "type": "Enhancer",
         "uniques": ["[-75]% Gold cost of upgrading <for [All] units>", "[+25]% maintenance costs <for [All] units>"]
+    },
+    {
+        "name": "National Nizam",
+        "type": "Follower",
+        "uniques": ["May buy [Mosque] buildings with [Faith] [in cities following this religion]", "[+15]% growth [in this city] <when not at war>", "[+2 Happiness] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
     }
 ]
